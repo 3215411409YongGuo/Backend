@@ -88,4 +88,4 @@ Backend runs on `http://localhost:8080`
 
 ## License
 
-This project is released under a Creative Commons licence for educational purposes.
+This project is released under the Creative Commons Zero (CC0) licence for educational purposes.
